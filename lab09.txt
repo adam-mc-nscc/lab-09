@@ -1,2 +1,4 @@
 name                    favorite movies             motto
 Adam McCormack          "Ink", "Moon"               I keep hoping that Rod Serling will introduce my day
+Curtis Leblanc          "Back to the Future"        There's not enough hours in a day to get enough sleep.
+
